@@ -4,8 +4,5 @@
   </v-app>
 </template>
 <style>
-body {
-  margin: 0;
-  font-family: 'poppins', sans-serif;
-}
+
 </style>
